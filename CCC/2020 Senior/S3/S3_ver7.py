@@ -1,0 +1,4 @@
+n = "aab"
+
+h = "aabababbbababbaba"
+
